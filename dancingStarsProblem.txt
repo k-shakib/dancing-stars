@@ -1,0 +1,41 @@
+1.Write a program to generate the following structure:
+
+*****
+*****
+*****
+*****
+*****
+
+2.Write a program to generate the following triangle:-
+
+*
+**
+***
+****
+*****
+
+3 Write a program to generate the following triangle:
+
+*****
+****
+***
+**
+*
+
+4 Write a program to generate the following triangle:
+
+*****
+ ****
+  ***
+   **
+    *
+
+5 Write a program to generate the following triangle:
+
+    *
+   **
+  ***
+ ****
+*****
+
+//if there is anything wrong ,please let me know.I will be grateful

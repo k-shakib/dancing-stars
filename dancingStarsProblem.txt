@@ -1,4 +1,4 @@
-1.Write a program to generate the following structure:
+1.Write a program to generate the following structure: input 5.
 
 *****
 *****
@@ -6,7 +6,7 @@
 *****
 *****
 
-2.Write a program to generate the following triangle:-
+2.Write a program to generate the following triangle: input 5.
 
 *
 **
@@ -14,7 +14,7 @@
 ****
 *****
 
-3 Write a program to generate the following triangle:
+3. Write a program to generate the following triangle: input 5.
 
 *****
 ****
@@ -22,7 +22,7 @@
 **
 *
 
-4 Write a program to generate the following triangle:
+4 Write a program to generate the following triangle: input 5.
 
 *****
  ****
@@ -30,12 +30,127 @@
    **
     *
 
-5 Write a program to generate the following triangle:
+5 Write a program to generate the following triangle: input 5.
 
     *
    **
   ***
  ****
 *****
+
+6. Write a C program to print the following triangle: input 5.
+
+    *
+   ***
+  *****
+ *******
+*********
+
+7. Write a C program to print the following structure: input 5.
+
+*********
+ *******
+  *****
+   ***
+    *
+
+8. Write a C program to print the following structure:input 5.
+
+    *
+   ***
+  *****
+ *******
+*********
+ *******
+  *****
+   ***
+    *
+
+9. Write a C program to print the following structure: input 5.
+
+*****
+****
+***
+**
+*
+**
+***
+****
+*****
+
+10. Write a C program to print the following structure: input 5.
+
+*********
+ *******
+  *****
+   ***
+    *
+   ***
+  *****
+ *******
+*********
+
+11. Write a C program to print the following triangle : input 10.
+
+*
+**
+* *
+*  *
+*   *
+*    *
+*     *
+*      *
+*       *
+**********
+
+12. Write a C program to print the following structure: input 5.
+
+*
+***
+******
+**********
+***************
+
+13. Write a C program to print the following structure: input 5.
+
+**********
+****  ****
+***    ***
+**      **
+*        *
+
+14. Write a C program to print the following structure:input 7.
+
+*
+**
+***
+****
+***
+**
+*
+
+15. Write a C program to print the following structure:input 5.
+
+*********
+*******
+*****
+***
+*
+
+16. Print Rectangle star pyramid as: input 5.
+
+**********
+*        *
+*        *
+*        *
+**********
+
+17. Print Square star structure like as: input 5.
+
+ ********
+*        *
+*        *
+*        *
+ ********
 
 //if there is anything wrong ,please let me know.I will be grateful
